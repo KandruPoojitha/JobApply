@@ -50,3 +50,6 @@ For the **Discovery** tab, create a [Programmable Search Engine](https://program
 ## Indeed
 
 There is no simple public Indeed search API for personal scripts; use Google queries like `site:indeed.com` or paste jobs manually.
+
+
+
